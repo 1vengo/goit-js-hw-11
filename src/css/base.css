@@ -83,4 +83,13 @@ main:has(.back-link) {
     border-radius: 4px;
     padding: 8px 16px;
     margin-right: 8px;
+    border: 1px solid #808080;
+      border-radius: 4px;
+}
+.search:hover, .search:focus{
+  border: 1px solid #000;
+    border-radius: 4px;
+}
+.btn:hover, .btn:focus{
+  background: #6c8cff;
 }
