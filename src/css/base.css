@@ -82,4 +82,5 @@ main:has(.back-link) {
     color: #808080;
     border-radius: 4px;
     padding: 8px 16px;
+    margin-right: 8px;
 }
